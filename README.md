@@ -15,10 +15,10 @@
 #### ✅ Confirmed Integrations
 - RDS + CloudWatch + SNS ✅
 - Lambda + API Gateway ✅
+- Step Function + Lambda ✅
+- Step Function + Lambda + SNS ✅
 
 #### Step Function Integrations
-- Step Function + Lambda
-- Step Function + Lambda + SNS
 - Step Function + Lambda + EMR + S3
 - Step Function + RDS + SNS + Lambda
 - Step Function to run ECS Task
